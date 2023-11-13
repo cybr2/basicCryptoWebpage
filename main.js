@@ -2,7 +2,6 @@ const btc = document.getElementById('bitcoin');
 const eth = document.getElementById('ethereum');
 const doge = document.getElementById('dogecoin');
 
-
 const settings = {
     'async' : true ,
     'scrossDomain' : true,
